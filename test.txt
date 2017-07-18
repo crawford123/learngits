@@ -1,2 +1,10 @@
 testing
+<<<<<<< HEAD
 I LOVE testing.I am coming!!!!
+=======
+<<<<<<< HEAD
+I also love it.
+=======
+I LOVE testing.
+>>>>>>> dea98af77ec8ebec044da8dfb443793761133b29
+>>>>>>> ca77ac8992dddf01a726933124e6724c23a4e8fa
